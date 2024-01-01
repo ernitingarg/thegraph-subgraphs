@@ -50,3 +50,5 @@ graph deploy --studio subgraph_slug_name
 ```bash
 https://thegraph.com/studio/subgraph/subgraph_slug_name/
 ```
+
+![image](https://github.com/ernitingarg/thegraph-subgraphs/assets/20875452/35a6ef69-752c-49af-81a5-21124e0d974d)
